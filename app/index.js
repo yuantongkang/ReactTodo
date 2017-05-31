@@ -8,5 +8,5 @@ function component () {
 
   return element.get(0);;
 }
-
+console.log('方方的教程')
 document.body.appendChild(component());
